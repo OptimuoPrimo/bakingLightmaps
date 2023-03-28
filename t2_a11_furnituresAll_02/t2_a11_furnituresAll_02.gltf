@@ -3274,8 +3274,7 @@
         }
       },
       "occlusionTexture": {
-        "index": 0,
-        "texCoord": 1
+        "index": 1
       },
       "emissiveFactor": [
         0.027,
@@ -3446,7 +3445,7 @@
           1.0
         ],
         "baseColorTexture": {
-          "index": 17
+          "index": 18
         },
         "metallicFactor": 0.0
       },
@@ -3454,10 +3453,13 @@
         "index": 16,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 17
+      },
       "emissiveFactor": [
-        0.027,
-        0.0007290003,
-        0.0007290003
+        1.0,
+        1.0,
+        1.0
       ],
       "name": "railing"
     },
@@ -3472,11 +3474,11 @@
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 18,
+        "index": 19,
         "texCoord": 1
       },
       "emissiveTexture": {
-        "index": 19
+        "index": 20
       },
       "emissiveFactor": [
         1.0,
@@ -3575,16 +3577,21 @@
     {
       "sampler": 0,
       "source": 17,
-      "name": "color_green_6027.jpg"
+      "name": "railing_lighting.png"
     },
     {
       "sampler": 0,
       "source": 18,
-      "name": "door_ao.png"
+      "name": "color_green_6027.jpg"
     },
     {
       "sampler": 0,
       "source": 19,
+      "name": "door_ao.png"
+    },
+    {
+      "sampler": 0,
+      "source": 20,
       "name": "door_lighting.png"
     }
   ],
@@ -3639,6 +3646,9 @@
     },
     {
       "uri": "railing_ao.png"
+    },
+    {
+      "uri": "railing_lighting.png"
     },
     {
       "uri": "color_green_6027.jpg"
