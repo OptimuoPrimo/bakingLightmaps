@@ -3210,13 +3210,10 @@
         "index": 0,
         "texCoord": 1
       },
-      "emissiveTexture": {
-        "index": 1
-      },
       "emissiveFactor": [
-        1.0,
-        1.0,
-        1.0
+        0.027,
+        0.0007290003,
+        0.0007290003
       ],
       "name": "masonry_outdoor"
     },
@@ -3305,8 +3302,7 @@
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 5,
-        "texCoord": 1
+        "index": 5
       },
       "emissiveTexture": {
         "index": 6
@@ -3329,8 +3325,7 @@
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 5,
-        "texCoord": 1
+        "index": 5
       },
       "emissiveTexture": {
         "index": 6
