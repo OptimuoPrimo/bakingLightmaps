@@ -937,11 +937,11 @@
     },
     {
       "translation": [
-        -5.0,
+        -5.5,
         1.0,
         3.0
       ],
-      "name": "living_01.Target"
+      "name": "cam_living_01.Target"
     },
     {
       "translation": [
@@ -949,7 +949,7 @@
         1.0,
         1.0
       ],
-      "name": "bed_01.Target"
+      "name": "cam_bed_01.Target"
     },
     {
       "translation": [
@@ -957,7 +957,7 @@
         1.0,
         6.5
       ],
-      "name": "bath_01.Target"
+      "name": "cam_bath_01.Target"
     },
     {
       "translation": [
@@ -965,7 +965,7 @@
         1.0,
         6.5
       ],
-      "name": "kitchen_01.Target"
+      "name": "cam_kitchen_01.Target"
     },
     {
       "translation": [
@@ -973,7 +973,7 @@
         1.0,
         7.5
       ],
-      "name": "hall_01.Target"
+      "name": "cam_hall_01.Target"
     },
     {
       "mesh": 28,
@@ -1446,12 +1446,12 @@
         7.5
       ],
       "rotation": [
-        -0.0494706631,
-        0.207325846,
-        0.0104983747,
-        0.9769639
+        -0.04684627,
+        0.2505474,
+        0.0121391118,
+        0.966894031
       ],
-      "name": "living_01"
+      "name": "cam_living_01"
     },
     {
       "camera": 1,
@@ -1466,7 +1466,7 @@
         -0.007185843,
         0.9917194
       ],
-      "name": "bed_01"
+      "name": "cam_bed_01"
     },
     {
       "camera": 2,
@@ -1486,7 +1486,7 @@
         0.99999994,
         1.0
       ],
-      "name": "bath_01"
+      "name": "cam_bath_01"
     },
     {
       "camera": 3,
@@ -1506,7 +1506,7 @@
         1.0,
         0.99999994
       ],
-      "name": "kitchen_01"
+      "name": "cam_kitchen_01"
     },
     {
       "camera": 4,
@@ -1521,18 +1521,18 @@
         -0.0568249822,
         -0.4867679
       ],
-      "name": "hall_01"
+      "name": "cam_hall_01"
     }
   ],
   "cameras": [
     {
       "perspective": {
-        "yfov": 0.841167033,
+        "yfov": 0.841362238,
         "zfar": 10000.0,
         "znear": 0.1
       },
       "type": "perspective",
-      "name": "living_01"
+      "name": "cam_living_01"
     },
     {
       "perspective": {
@@ -1541,7 +1541,7 @@
         "znear": 0.1
       },
       "type": "perspective",
-      "name": "bed_01"
+      "name": "cam_bed_01"
     },
     {
       "perspective": {
@@ -1550,7 +1550,7 @@
         "znear": 0.1
       },
       "type": "perspective",
-      "name": "bath_01"
+      "name": "cam_bath_01"
     },
     {
       "perspective": {
@@ -1559,7 +1559,7 @@
         "znear": 0.1
       },
       "type": "perspective",
-      "name": "kitchen_01"
+      "name": "cam_kitchen_01"
     },
     {
       "perspective": {
@@ -1568,7 +1568,7 @@
         "znear": 0.1
       },
       "type": "perspective",
-      "name": "hall_01"
+      "name": "cam_hall_01"
     }
   ],
   "meshes": [
@@ -2317,7 +2317,8 @@
           "attributes": {
             "POSITION": 260,
             "NORMAL": 261,
-            "TEXCOORD_0": 262
+            "TEXCOORD_0": 262,
+            "TEXCOORD_1": 263
           },
           "indices": 259,
           "material": 24
@@ -4957,6 +4958,14 @@
       "count": 16,
       "type": "VEC2",
       "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 269712,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC2",
+      "name": "accessorUV2s"
     }
   ],
   "bufferViews": [
@@ -4975,7 +4984,7 @@
     {
       "buffer": 0,
       "byteOffset": 514788,
-      "byteLength": 269712,
+      "byteLength": 269840,
       "byteStride": 8,
       "name": "bufferViewFloatVec2"
     }
@@ -4983,7 +4992,7 @@
   "buffers": [
     {
       "uri": "t2_a11_furnituresAll_02.bin",
-      "byteLength": 784500
+      "byteLength": 784628
     }
   ],
   "materials": [
