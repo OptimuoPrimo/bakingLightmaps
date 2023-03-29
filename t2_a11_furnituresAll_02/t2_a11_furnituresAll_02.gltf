@@ -3274,12 +3274,16 @@
         }
       },
       "occlusionTexture": {
+        "index": 0,
+        "texCoord": 1
+      },
+      "emissiveTexture": {
         "index": 1
       },
       "emissiveFactor": [
-        0.027,
-        0.0007290003,
-        0.0007290003
+        1.0,
+        1.0,
+        1.0
       ],
       "name": "masonry_pb13"
     },
