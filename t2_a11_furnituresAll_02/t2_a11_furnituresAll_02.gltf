@@ -52,8 +52,7 @@
         35,
         36,
         37,
-        38,
-        39
+        38
       ]
     }
   ],
@@ -974,30 +973,6 @@
       "extensions": {
         "KHR_lights_punctual": {
           "light": 0
-        }
-      }
-    },
-    {
-      "translation": [
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": [
-        -0.280166626,
-        0.538985431,
-        0.196174681,
-        0.7697512
-      ],
-      "scale": [
-        1.0,
-        0.99999994,
-        1.0
-      ],
-      "name": "ArnoldLight001",
-      "extensions": {
-        "KHR_lights_punctual": {
-          "light": 1
         }
       }
     },
@@ -3668,10 +3643,6 @@
   "extensions": {
     "KHR_lights_punctual": {
       "lights": [
-        {
-          "intensity": 0.0,
-          "type": "directional"
-        },
         {
           "intensity": 0.0,
           "type": "directional"
