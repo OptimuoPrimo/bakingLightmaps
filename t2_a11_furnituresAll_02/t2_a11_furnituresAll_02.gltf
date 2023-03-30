@@ -3277,7 +3277,8 @@
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 5
+        "index": 5,
+        "texCoord": 1
       },
       "emissiveTexture": {
         "index": 6
@@ -3300,7 +3301,8 @@
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 5
+        "index": 5,
+        "texCoord": 1
       },
       "emissiveTexture": {
         "index": 6
@@ -3448,7 +3450,8 @@
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 19
+        "index": 19,
+        "texCoord": 1
       },
       "emissiveTexture": {
         "index": 20
