@@ -2701,7 +2701,7 @@
             "TEXCOORD_1": 383
           },
           "indices": 379,
-          "material": 43
+          "material": 44
         }
       ],
       "name": "panels_bathfurniture_batigreen_londres800_provence"
@@ -2716,7 +2716,7 @@
             "TEXCOORD_1": 388
           },
           "indices": 384,
-          "material": 44
+          "material": 45
         }
       ],
       "name": "bathfurniture_batigreen_shadowplane"
@@ -7779,29 +7779,15 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          1.0,
-          0.9954666,
-          0.66906476,
-          1.0
-        ],
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
-      },
-      "occlusionTexture": {
-        "index": 40,
-        "texCoord": 1
-      },
-      "emissiveTexture": {
-        "index": 41,
-        "texCoord": 1
       },
       "emissiveFactor": [
         1.0,
         1.0,
         1.0
       ],
-      "name": "spotlight2"
+      "name": "bed_emissive"
     },
     {
       "pbrMetallicRoughness": {
@@ -7954,6 +7940,18 @@
     },
     {
       "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "bathfurniture_emissive"
+    },
+    {
+      "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 43
         },
@@ -8067,7 +8065,7 @@
     {
       "sampler": 0,
       "source": 14,
-      "name": "curtain_complete.png"
+      "name": "curtain_complete_02a.png"
     },
     {
       "sampler": 0,
@@ -8339,7 +8337,7 @@
       "uri": "curtain_ao.png"
     },
     {
-      "uri": "curtain_complete.png"
+      "uri": "curtain_complete_02a.png"
     },
     {
       "uri": "window_ao.png"
