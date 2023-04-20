@@ -3948,7 +3948,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 2
+          "index": 3
         },
         "metallicFactor": 0.0
       },
@@ -3959,12 +3959,21 @@
         "index": 1,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 2,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "wall_int_global"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 2
+          "index": 3
         },
         "metallicFactor": 0.0
       },
@@ -3975,12 +3984,21 @@
         "index": 1,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 2,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "wallpaint_01_living_01_color"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 2
+          "index": 3
         },
         "metallicFactor": 0.0
       },
@@ -3991,6 +4009,15 @@
         "index": 1,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 2,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "wallpaint_02_bed_01_color"
     },
     {
@@ -4002,19 +4029,28 @@
           1.0
         ],
         "baseColorTexture": {
-          "index": 2
+          "index": 3
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
       },
       "normalTexture": {
-        "index": 3,
+        "index": 4,
         "scale": 5.0
       },
       "occlusionTexture": {
-        "index": 4,
+        "index": 5,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 6,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "wall_ext_white"
     },
     {
@@ -4046,7 +4082,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 5,
+          "index": 7,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4068,84 +4104,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 7
+          "index": 10
         },
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 6,
-        "texCoord": 1
-      },
-      "name": "grass"
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 10,
-          "extensions": {
-            "KHR_texture_transform": {
-              "offset": [
-                -0.6,
-                -0.6
-              ],
-              "scale": [
-                2.2,
-                2.2
-              ],
-              "texCoord": 0
-            }
-          }
-        },
-        "metallicFactor": 0.0
-      },
-      "normalTexture": {
         "index": 8,
-        "extensions": {
-          "KHR_texture_transform": {
-            "offset": [
-              -0.6,
-              -0.6
-            ],
-            "scale": [
-              2.2,
-              2.2
-            ],
-            "texCoord": 0
-          }
-        }
-      },
-      "occlusionTexture": {
-        "index": 9,
-        "texCoord": 1
-      },
-      "name": "terrace_amarilla"
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 12,
-          "extensions": {
-            "KHR_texture_transform": {
-              "offset": [
-                -0.6,
-                -0.6
-              ],
-              "scale": [
-                2.2,
-                2.2
-              ],
-              "texCoord": 0
-            }
-          }
-        },
-        "metallicFactor": 0.0
-      },
-      "occlusionTexture": {
-        "index": 9,
         "texCoord": 1
       },
       "emissiveTexture": {
-        "index": 11,
+        "index": 9,
         "texCoord": 1
       },
       "emissiveFactor": [
@@ -4153,7 +4121,7 @@
         1.0,
         1.0
       ],
-      "name": "M_Ground"
+      "name": "grass"
     },
     {
       "pbrMetallicRoughness": {
@@ -4175,10 +4143,105 @@
         },
         "metallicFactor": 0.0
       },
+      "normalTexture": {
+        "index": 11,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.6,
+              -0.6
+            ],
+            "scale": [
+              2.2,
+              2.2
+            ],
+            "texCoord": 0
+          }
+        }
+      },
       "occlusionTexture": {
+        "index": 12,
+        "texCoord": 1
+      },
+      "emissiveTexture": {
         "index": 13,
         "texCoord": 1
       },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "terrace_amarilla"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 15,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                -0.6,
+                -0.6
+              ],
+              "scale": [
+                2.2,
+                2.2
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "occlusionTexture": {
+        "index": 12,
+        "texCoord": 1
+      },
+      "emissiveTexture": {
+        "index": 13,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "M_Ground"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 18,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                -0.6,
+                -0.6
+              ],
+              "scale": [
+                2.2,
+                2.2
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "occlusionTexture": {
+        "index": 16,
+        "texCoord": 1
+      },
+      "emissiveTexture": {
+        "index": 17,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "M_Baseboard"
     },
     {
@@ -4186,15 +4249,24 @@
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 15,
+        "index": 19,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 20,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "M_Ceiling"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 18,
+          "index": 24,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4212,7 +4284,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 16,
+        "index": 21,
         "extensions": {
           "KHR_texture_transform": {
             "offset": [
@@ -4228,9 +4300,18 @@
         }
       },
       "occlusionTexture": {
-        "index": 17,
+        "index": 22,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 23,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "M_Curtain"
     },
     {
@@ -4238,15 +4319,24 @@
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 19,
+        "index": 25,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 26,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "M_Door"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 20,
+          "index": 27,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4263,13 +4353,13 @@
         },
         "metallicFactor": 0.0
       },
-      "alphaMode": "MASK",
+      "alphaMode": "BLEND",
       "name": "Fence_gris_vert"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 21
+          "index": 28
         },
         "metallicFactor": 0.0
       },
@@ -4278,46 +4368,73 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 23
+          "index": 31
         },
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 22,
+        "index": 29,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 30,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "window interior"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 23
+          "index": 31
         },
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 22,
+        "index": 29,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 30,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "window exterior"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 2
+          "index": 3
         },
         "metallicFactor": 0.0
       },
       "occlusionTexture": {
-        "index": 22,
+        "index": 29,
         "texCoord": 1
       },
+      "emissiveTexture": {
+        "index": 30,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
       "name": "blinders"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 32
         },
         "metallicFactor": 0.0
       },
@@ -4339,116 +4456,156 @@
     {
       "sampler": 0,
       "source": 2,
-      "name": "color_white.jpg"
+      "name": "masonry_01_interior_lighting.jpg"
     },
     {
       "sampler": 0,
       "source": 3,
-      "name": "paint_outdoor_normal.jpg"
+      "name": "color_white.jpg"
     },
     {
       "sampler": 0,
       "source": 4,
-      "name": "masonry_01_exterior_ao.jpg"
+      "name": "paint_outdoor_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 5,
-      "name": "stripes_albedo.jpg"
+      "name": "masonry_01_exterior_ao.jpg"
     },
     {
       "sampler": 0,
       "source": 6,
-      "name": "garden_ao.jpg"
+      "name": "masonry_01_exterior_lighting.jpg"
     },
     {
       "sampler": 0,
       "source": 7,
-      "name": "grass_albedo.jpg"
+      "name": "stripes_albedo.jpg"
     },
     {
       "sampler": 0,
       "source": 8,
-      "name": "terrace_normal.jpg"
+      "name": "garden_ao.jpg"
     },
     {
       "sampler": 0,
       "source": 9,
-      "name": "ground_ao.jpg"
+      "name": "garden_lighting.jpg"
     },
     {
       "sampler": 0,
       "source": 10,
-      "name": "terrace_albedo_yellow.jpg"
+      "name": "grass_albedo.jpg"
     },
     {
       "sampler": 0,
       "source": 11,
-      "name": "ground_lighting.jpg"
+      "name": "terrace_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 12,
-      "name": "tiles_decoceram_belcanto_grey_basecolor.jpg"
+      "name": "ground_ao.jpg"
     },
     {
       "sampler": 0,
       "source": 13,
-      "name": "baseboard_ao.jpg"
+      "name": "ground_lighting.jpg"
     },
     {
       "sampler": 0,
       "source": 14,
-      "name": "baseboard_decoceram_belcanto_grey_basecolor.jpg"
+      "name": "terrace_albedo_yellow.jpg"
     },
     {
       "sampler": 0,
       "source": 15,
-      "name": "ceiling_ao.jpg"
+      "name": "tiles_decoceram_belcanto_grey_basecolor.jpg"
     },
     {
       "sampler": 0,
       "source": 16,
-      "name": "contemporary_curtain_normal_new.jpg"
+      "name": "baseboard_ao.jpg"
     },
     {
       "sampler": 0,
       "source": 17,
-      "name": "curtain_ao.jpg"
+      "name": "baseboard_lighting.jpg"
     },
     {
       "sampler": 0,
       "source": 18,
-      "name": "contemporary_curtain_fabric_lines.jpg"
+      "name": "baseboard_decoceram_belcanto_grey_basecolor.jpg"
     },
     {
       "sampler": 0,
       "source": 19,
-      "name": "door_ao.jpg"
+      "name": "ceiling_ao.jpg"
     },
     {
       "sampler": 0,
       "source": 20,
-      "name": "fence_albedo.png"
+      "name": "ceiling_lighting.jpg"
     },
     {
       "sampler": 0,
       "source": 21,
-      "name": "color_gris_vert.jpg"
+      "name": "contemporary_curtain_normal_new.jpg"
     },
     {
       "sampler": 0,
       "source": 22,
-      "name": "window_ao.jpg"
+      "name": "curtain_ao.jpg"
     },
     {
       "sampler": 0,
       "source": 23,
-      "name": "color_antracite.jpg"
+      "name": "curtain_lighting.jpg"
     },
     {
       "sampler": 0,
       "source": 24,
+      "name": "contemporary_curtain_fabric_lines.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 25,
+      "name": "door_ao.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 26,
+      "name": "door_lighting.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 27,
+      "name": "fence_albedo.png"
+    },
+    {
+      "sampler": 0,
+      "source": 28,
+      "name": "color_gris_vert.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 29,
+      "name": "window_ao.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 30,
+      "name": "window_lighting.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 31,
+      "name": "color_antracite.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 32,
       "name": "barandilla_bernin_green.png"
     }
   ],
@@ -4460,6 +4617,9 @@
       "uri": "masonry_01_interior_ao.jpg"
     },
     {
+      "uri": "masonry_01_interior_lighting.jpg"
+    },
+    {
       "uri": "color_white.jpg"
     },
     {
@@ -4469,10 +4629,16 @@
       "uri": "masonry_01_exterior_ao.jpg"
     },
     {
+      "uri": "masonry_01_exterior_lighting.jpg"
+    },
+    {
       "uri": "stripes_albedo.jpg"
     },
     {
       "uri": "garden_ao.jpg"
+    },
+    {
+      "uri": "garden_lighting.jpg"
     },
     {
       "uri": "grass_albedo.jpg"
@@ -4484,10 +4650,10 @@
       "uri": "ground_ao.jpg"
     },
     {
-      "uri": "terrace_albedo_yellow.jpg"
+      "uri": "ground_lighting.jpg"
     },
     {
-      "uri": "ground_lighting.jpg"
+      "uri": "terrace_albedo_yellow.jpg"
     },
     {
       "uri": "tiles_decoceram_belcanto_grey_basecolor.jpg"
@@ -4496,10 +4662,16 @@
       "uri": "baseboard_ao.jpg"
     },
     {
+      "uri": "baseboard_lighting.jpg"
+    },
+    {
       "uri": "baseboard_decoceram_belcanto_grey_basecolor.jpg"
     },
     {
       "uri": "ceiling_ao.jpg"
+    },
+    {
+      "uri": "ceiling_lighting.jpg"
     },
     {
       "uri": "contemporary_curtain_normal_new.jpg"
@@ -4508,10 +4680,16 @@
       "uri": "curtain_ao.jpg"
     },
     {
+      "uri": "curtain_lighting.jpg"
+    },
+    {
       "uri": "contemporary_curtain_fabric_lines.jpg"
     },
     {
       "uri": "door_ao.jpg"
+    },
+    {
+      "uri": "door_lighting.jpg"
     },
     {
       "uri": "fence_albedo.png"
@@ -4521,6 +4699,9 @@
     },
     {
       "uri": "window_ao.jpg"
+    },
+    {
+      "uri": "window_lighting.jpg"
     },
     {
       "uri": "color_antracite.jpg"
