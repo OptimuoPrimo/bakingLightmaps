@@ -3360,7 +3360,7 @@
             "TEXCOORD_1": 89
           },
           "indices": 85,
-          "material": 8
+          "material": 9
         }
       ],
       "name": "curtain_bar_01"
@@ -3375,7 +3375,7 @@
             "TEXCOORD_1": 94
           },
           "indices": 90,
-          "material": 9
+          "material": 10
         }
       ],
       "name": "door_01"
@@ -3390,7 +3390,7 @@
             "TEXCOORD_1": 99
           },
           "indices": 95,
-          "material": 10
+          "material": 11
         },
         {
           "attributes": {
@@ -3400,7 +3400,7 @@
             "TEXCOORD_1": 104
           },
           "indices": 100,
-          "material": 11
+          "material": 12
         }
       ],
       "name": "fence_01"
@@ -3415,7 +3415,7 @@
             "TEXCOORD_1": 109
           },
           "indices": 105,
-          "material": 12
+          "material": 13
         },
         {
           "attributes": {
@@ -3425,7 +3425,7 @@
             "TEXCOORD_1": 114
           },
           "indices": 110,
-          "material": 13
+          "material": 14
         },
         {
           "attributes": {
@@ -3435,7 +3435,7 @@
             "TEXCOORD_1": 119
           },
           "indices": 115,
-          "material": 14
+          "material": 15
         }
       ],
       "name": "french_window_doble_01"
@@ -3450,7 +3450,7 @@
             "TEXCOORD_1": 124
           },
           "indices": 120,
-          "material": 9
+          "material": 10
         }
       ],
       "name": "interior_door_handle_01"
@@ -3465,7 +3465,7 @@
             "TEXCOORD_1": 129
           },
           "indices": 125,
-          "material": 9
+          "material": 10
         }
       ],
       "name": "interior_door_panel_01"
@@ -3495,7 +3495,7 @@
             "TEXCOORD_1": 139
           },
           "indices": 135,
-          "material": 8
+          "material": 9
         }
       ],
       "name": "curtain_bar_02"
@@ -3525,7 +3525,7 @@
             "TEXCOORD_1": 149
           },
           "indices": 145,
-          "material": 8
+          "material": 9
         }
       ],
       "name": "curtain_bar_03"
@@ -3555,7 +3555,7 @@
             "TEXCOORD_1": 159
           },
           "indices": 155,
-          "material": 8
+          "material": 9
         }
       ],
       "name": "curtain_bar_04"
@@ -3570,7 +3570,7 @@
             "TEXCOORD_1": 164
           },
           "indices": 160,
-          "material": 9
+          "material": 10
         }
       ],
       "name": "interior_door_handle_02"
@@ -3585,7 +3585,7 @@
             "TEXCOORD_1": 169
           },
           "indices": 165,
-          "material": 9
+          "material": 10
         }
       ],
       "name": "interior_door_panel_02"
@@ -3600,7 +3600,7 @@
             "TEXCOORD_1": 174
           },
           "indices": 170,
-          "material": 9
+          "material": 10
         }
       ],
       "name": "interior_door_handle_03"
@@ -3615,7 +3615,7 @@
             "TEXCOORD_1": 179
           },
           "indices": 175,
-          "material": 9
+          "material": 10
         }
       ],
       "name": "interior_door_panel_03"
@@ -3630,7 +3630,7 @@
             "TEXCOORD_1": 184
           },
           "indices": 180,
-          "material": 15
+          "material": 16
         },
         {
           "attributes": {
@@ -3640,7 +3640,7 @@
             "TEXCOORD_1": 189
           },
           "indices": 185,
-          "material": 16
+          "material": 17
         }
       ],
       "name": "railing_green_01"
@@ -3655,7 +3655,7 @@
             "TEXCOORD_1": 194
           },
           "indices": 190,
-          "material": 17
+          "material": 18
         },
         {
           "attributes": {
@@ -3665,7 +3665,7 @@
             "TEXCOORD_1": 199
           },
           "indices": 195,
-          "material": 18
+          "material": 19
         },
         {
           "attributes": {
@@ -3675,7 +3675,7 @@
             "TEXCOORD_1": 204
           },
           "indices": 200,
-          "material": 19
+          "material": 20
         },
         {
           "attributes": {
@@ -3685,7 +3685,7 @@
             "TEXCOORD_1": 209
           },
           "indices": 205,
-          "material": 20
+          "material": 21
         }
       ],
       "name": "base_bathfurniture_batigreen_londres800_provence"
@@ -3700,7 +3700,7 @@
             "TEXCOORD_1": 214
           },
           "indices": 210,
-          "material": 20
+          "material": 21
         }
       ],
       "name": "panels_bathfurniture_batigreen_londres800_provence"
@@ -3715,7 +3715,7 @@
             "TEXCOORD_1": 219
           },
           "indices": 215,
-          "material": 21
+          "material": 22
         }
       ],
       "name": "bathfurniture_batigreen_shadowplane"
@@ -3730,7 +3730,7 @@
             "TEXCOORD_1": 224
           },
           "indices": 220,
-          "material": 22
+          "material": 23
         },
         {
           "attributes": {
@@ -3740,7 +3740,7 @@
             "TEXCOORD_1": 229
           },
           "indices": 225,
-          "material": 23
+          "material": 24
         },
         {
           "attributes": {
@@ -3750,7 +3750,7 @@
             "TEXCOORD_1": 234
           },
           "indices": 230,
-          "material": 24
+          "material": 25
         }
       ],
       "name": "base_bed"
@@ -3765,7 +3765,7 @@
             "TEXCOORD_1": 239
           },
           "indices": 235,
-          "material": 25
+          "material": 26
         }
       ],
       "name": "blanket"
@@ -3780,7 +3780,7 @@
             "TEXCOORD_1": 244
           },
           "indices": 240,
-          "material": 26
+          "material": 27
         },
         {
           "attributes": {
@@ -3790,7 +3790,7 @@
             "TEXCOORD_1": 249
           },
           "indices": 245,
-          "material": 23
+          "material": 24
         },
         {
           "attributes": {
@@ -3800,7 +3800,7 @@
             "TEXCOORD_1": 254
           },
           "indices": 250,
-          "material": 27
+          "material": 28
         },
         {
           "attributes": {
@@ -3810,7 +3810,7 @@
             "TEXCOORD_1": 259
           },
           "indices": 255,
-          "material": 28
+          "material": 29
         },
         {
           "attributes": {
@@ -3820,7 +3820,7 @@
             "TEXCOORD_1": 264
           },
           "indices": 260,
-          "material": 29
+          "material": 30
         },
         {
           "attributes": {
@@ -3830,7 +3830,7 @@
             "TEXCOORD_1": 269
           },
           "indices": 265,
-          "material": 30
+          "material": 31
         },
         {
           "attributes": {
@@ -3840,7 +3840,7 @@
             "TEXCOORD_1": 274
           },
           "indices": 270,
-          "material": 31
+          "material": 32
         }
       ],
       "name": "books"
@@ -3855,7 +3855,7 @@
             "TEXCOORD_1": 279
           },
           "indices": 275,
-          "material": 32
+          "material": 33
         },
         {
           "attributes": {
@@ -3865,7 +3865,7 @@
             "TEXCOORD_1": 284
           },
           "indices": 280,
-          "material": 33
+          "material": 34
         }
       ],
       "name": "carpet"
@@ -3880,7 +3880,7 @@
             "TEXCOORD_1": 289
           },
           "indices": 285,
-          "material": 23
+          "material": 24
         },
         {
           "attributes": {
@@ -3890,7 +3890,7 @@
             "TEXCOORD_1": 294
           },
           "indices": 290,
-          "material": 34
+          "material": 35
         }
       ],
       "name": "lamp_01"
@@ -3905,7 +3905,7 @@
             "TEXCOORD_1": 299
           },
           "indices": 295,
-          "material": 23
+          "material": 24
         },
         {
           "attributes": {
@@ -3915,7 +3915,7 @@
             "TEXCOORD_1": 304
           },
           "indices": 300,
-          "material": 34
+          "material": 35
         }
       ],
       "name": "lamp_02"
@@ -3930,7 +3930,7 @@
             "TEXCOORD_1": 309
           },
           "indices": 305,
-          "material": 35
+          "material": 36
         }
       ],
       "name": "side_table"
@@ -3945,7 +3945,7 @@
             "TEXCOORD_1": 314
           },
           "indices": 310,
-          "material": 36
+          "material": 37
         }
       ],
       "name": "contemporary_parent_bed_shadowplane"
@@ -3961,7 +3961,7 @@
             "TEXCOORD_1": 320
           },
           "indices": 315,
-          "material": 37
+          "material": 38
         },
         {
           "attributes": {
@@ -3972,7 +3972,7 @@
             "TEXCOORD_1": 326
           },
           "indices": 321,
-          "material": 38
+          "material": 39
         },
         {
           "attributes": {
@@ -3983,7 +3983,7 @@
             "TEXCOORD_1": 332
           },
           "indices": 327,
-          "material": 39
+          "material": 40
         }
       ],
       "name": "contemporary_desk"
@@ -3998,7 +3998,7 @@
             "TEXCOORD_1": 337
           },
           "indices": 333,
-          "material": 40
+          "material": 41
         },
         {
           "attributes": {
@@ -4008,7 +4008,7 @@
             "TEXCOORD_1": 342
           },
           "indices": 338,
-          "material": 37
+          "material": 38
         }
       ],
       "name": "contemporary_chair"
@@ -4023,7 +4023,7 @@
             "TEXCOORD_1": 347
           },
           "indices": 343,
-          "material": 41
+          "material": 42
         }
       ],
       "name": "contemporary_desk_lamp"
@@ -4038,7 +4038,7 @@
             "TEXCOORD_1": 352
           },
           "indices": 348,
-          "material": 42
+          "material": 43
         }
       ],
       "name": "contemporary_book"
@@ -4053,7 +4053,7 @@
             "TEXCOORD_1": 357
           },
           "indices": 353,
-          "material": 43
+          "material": 44
         }
       ],
       "name": "contemporary_desk_shadowplane"
@@ -4068,7 +4068,7 @@
             "TEXCOORD_1": 362
           },
           "indices": 358,
-          "material": 44
+          "material": 45
         },
         {
           "attributes": {
@@ -4078,7 +4078,7 @@
             "TEXCOORD_1": 367
           },
           "indices": 363,
-          "material": 45
+          "material": 46
         }
       ],
       "name": "vase"
@@ -4093,7 +4093,7 @@
             "TEXCOORD_1": 372
           },
           "indices": 368,
-          "material": 46
+          "material": 47
         },
         {
           "attributes": {
@@ -4103,7 +4103,7 @@
             "TEXCOORD_1": 377
           },
           "indices": 373,
-          "material": 47
+          "material": 48
         }
       ],
       "name": "tv"
@@ -4118,7 +4118,7 @@
             "TEXCOORD_1": 382
           },
           "indices": 378,
-          "material": 48
+          "material": 49
         }
       ],
       "name": "Plane8948"
@@ -4133,7 +4133,7 @@
             "TEXCOORD_1": 387
           },
           "indices": 383,
-          "material": 48
+          "material": 49
         }
       ],
       "name": "Plane8947"
@@ -4148,7 +4148,7 @@
             "TEXCOORD_1": 392
           },
           "indices": 388,
-          "material": 48
+          "material": 49
         }
       ],
       "name": "Plane8946"
@@ -4163,7 +4163,7 @@
             "TEXCOORD_1": 397
           },
           "indices": 393,
-          "material": 48
+          "material": 49
         }
       ],
       "name": "Plane8945"
@@ -4178,7 +4178,7 @@
             "TEXCOORD_1": 402
           },
           "indices": 398,
-          "material": 48
+          "material": 49
         }
       ],
       "name": "Plane8944"
@@ -4193,7 +4193,7 @@
             "TEXCOORD_1": 407
           },
           "indices": 403,
-          "material": 48
+          "material": 49
         }
       ],
       "name": "Plane8943"
@@ -4208,7 +4208,7 @@
             "TEXCOORD_1": 412
           },
           "indices": 408,
-          "material": 48
+          "material": 49
         }
       ],
       "name": "Plane8942"
@@ -4223,7 +4223,7 @@
             "TEXCOORD_1": 417
           },
           "indices": 413,
-          "material": 46
+          "material": 47
         },
         {
           "attributes": {
@@ -4233,7 +4233,7 @@
             "TEXCOORD_1": 422
           },
           "indices": 418,
-          "material": 49
+          "material": 50
         },
         {
           "attributes": {
@@ -4243,7 +4243,7 @@
             "TEXCOORD_1": 427
           },
           "indices": 423,
-          "material": 50
+          "material": 51
         }
       ],
       "name": "pictures"
@@ -4258,7 +4258,7 @@
             "TEXCOORD_1": 432
           },
           "indices": 428,
-          "material": 51
+          "material": 52
         }
       ],
       "name": "panels_04"
@@ -4273,7 +4273,7 @@
             "TEXCOORD_1": 437
           },
           "indices": 433,
-          "material": 52
+          "material": 53
         }
       ],
       "name": "panels_03"
@@ -4288,7 +4288,7 @@
             "TEXCOORD_1": 442
           },
           "indices": 438,
-          "material": 53
+          "material": 54
         }
       ],
       "name": "panels_02"
@@ -4303,7 +4303,7 @@
             "TEXCOORD_1": 447
           },
           "indices": 443,
-          "material": 53
+          "material": 54
         }
       ],
       "name": "panels_01"
@@ -4318,7 +4318,7 @@
             "TEXCOORD_1": 452
           },
           "indices": 448,
-          "material": 54
+          "material": 55
         }
       ],
       "name": "handle"
@@ -4333,7 +4333,7 @@
             "TEXCOORD_1": 457
           },
           "indices": 453,
-          "material": 55
+          "material": 56
         },
         {
           "attributes": {
@@ -4343,7 +4343,7 @@
             "TEXCOORD_1": 462
           },
           "indices": 458,
-          "material": 54
+          "material": 55
         }
       ],
       "name": "base"
@@ -4358,7 +4358,7 @@
             "TEXCOORD_1": 467
           },
           "indices": 463,
-          "material": 56
+          "material": 57
         }
       ],
       "name": "contemporary_living_tv_shadowplane"
@@ -4374,7 +4374,7 @@
             "TEXCOORD_1": 473
           },
           "indices": 468,
-          "material": 57
+          "material": 58
         },
         {
           "attributes": {
@@ -4385,7 +4385,7 @@
             "TEXCOORD_1": 479
           },
           "indices": 474,
-          "material": 58
+          "material": 59
         }
       ],
       "name": "table_exterier_01"
@@ -4400,7 +4400,7 @@
             "TEXCOORD_1": 484
           },
           "indices": 480,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Cylinder012"
@@ -4415,7 +4415,7 @@
             "TEXCOORD_1": 489
           },
           "indices": 485,
-          "material": 60
+          "material": 61
         }
       ],
       "name": "Plane001"
@@ -4430,7 +4430,7 @@
             "TEXCOORD_1": 494
           },
           "indices": 490,
-          "material": 60
+          "material": 61
         }
       ],
       "name": "Plane002"
@@ -4445,7 +4445,7 @@
             "TEXCOORD_1": 499
           },
           "indices": 495,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Object001"
@@ -4460,7 +4460,7 @@
             "TEXCOORD_1": 504
           },
           "indices": 500,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Object002"
@@ -4475,7 +4475,7 @@
             "TEXCOORD_1": 509
           },
           "indices": 505,
-          "material": 60
+          "material": 61
         }
       ],
       "name": "Plane003"
@@ -4490,7 +4490,7 @@
             "TEXCOORD_1": 514
           },
           "indices": 510,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Object003"
@@ -4505,7 +4505,7 @@
             "TEXCOORD_1": 519
           },
           "indices": 515,
-          "material": 60
+          "material": 61
         }
       ],
       "name": "Plane004"
@@ -4520,7 +4520,7 @@
             "TEXCOORD_1": 524
           },
           "indices": 520,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Object005"
@@ -4535,7 +4535,7 @@
             "TEXCOORD_1": 529
           },
           "indices": 525,
-          "material": 60
+          "material": 61
         }
       ],
       "name": "Plane006"
@@ -4550,7 +4550,7 @@
             "TEXCOORD_1": 534
           },
           "indices": 530,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Object006"
@@ -4565,7 +4565,7 @@
             "TEXCOORD_1": 539
           },
           "indices": 535,
-          "material": 60
+          "material": 61
         }
       ],
       "name": "Plane007"
@@ -4580,7 +4580,7 @@
             "TEXCOORD_1": 544
           },
           "indices": 540,
-          "material": 61
+          "material": 62
         }
       ],
       "name": "chair_outdoor_01"
@@ -4595,7 +4595,7 @@
             "TEXCOORD_1": 549
           },
           "indices": 545,
-          "material": 61
+          "material": 62
         }
       ],
       "name": "chair_outdoor_02"
@@ -4610,7 +4610,7 @@
             "TEXCOORD_1": 554
           },
           "indices": 550,
-          "material": 61
+          "material": 62
         }
       ],
       "name": "chair_outdoor_03"
@@ -4625,7 +4625,7 @@
             "TEXCOORD_1": 559
           },
           "indices": 555,
-          "material": 61
+          "material": 62
         }
       ],
       "name": "chair_outdoor_04"
@@ -4640,7 +4640,7 @@
             "TEXCOORD_1": 564
           },
           "indices": 560,
-          "material": 61
+          "material": 62
         }
       ],
       "name": "chair_outdoor_05"
@@ -4655,7 +4655,7 @@
             "TEXCOORD_1": 569
           },
           "indices": 565,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Cylinder002"
@@ -4670,7 +4670,7 @@
             "TEXCOORD_1": 574
           },
           "indices": 570,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Cylinder013"
@@ -4685,7 +4685,7 @@
             "TEXCOORD_1": 579
           },
           "indices": 575,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Cylinder014"
@@ -4700,7 +4700,7 @@
             "TEXCOORD_1": 584
           },
           "indices": 580,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Cylinder015"
@@ -4715,7 +4715,7 @@
             "TEXCOORD_1": 589
           },
           "indices": 585,
-          "material": 59
+          "material": 60
         }
       ],
       "name": "Cylinder016"
@@ -4730,7 +4730,7 @@
             "TEXCOORD_1": 594
           },
           "indices": 590,
-          "material": 62
+          "material": 63
         },
         {
           "attributes": {
@@ -4740,7 +4740,7 @@
             "TEXCOORD_1": 599
           },
           "indices": 595,
-          "material": 63
+          "material": 64
         }
       ],
       "name": "contemporary_deco_01"
@@ -4755,7 +4755,7 @@
             "TEXCOORD_1": 604
           },
           "indices": 600,
-          "material": 62
+          "material": 63
         },
         {
           "attributes": {
@@ -4765,7 +4765,7 @@
             "TEXCOORD_1": 609
           },
           "indices": 605,
-          "material": 63
+          "material": 64
         }
       ],
       "name": "contemporary_deco_02"
@@ -4780,7 +4780,7 @@
             "TEXCOORD_1": 614
           },
           "indices": 610,
-          "material": 62
+          "material": 63
         },
         {
           "attributes": {
@@ -4790,7 +4790,7 @@
             "TEXCOORD_1": 619
           },
           "indices": 615,
-          "material": 63
+          "material": 64
         }
       ],
       "name": "contemporary_deco_03"
@@ -4805,7 +4805,7 @@
             "TEXCOORD_1": 624
           },
           "indices": 620,
-          "material": 62
+          "material": 63
         },
         {
           "attributes": {
@@ -4815,7 +4815,7 @@
             "TEXCOORD_1": 629
           },
           "indices": 625,
-          "material": 63
+          "material": 64
         }
       ],
       "name": "contemporary_deco_04"
@@ -4830,7 +4830,7 @@
             "TEXCOORD_1": 634
           },
           "indices": 630,
-          "material": 62
+          "material": 63
         },
         {
           "attributes": {
@@ -4840,7 +4840,7 @@
             "TEXCOORD_1": 639
           },
           "indices": 635,
-          "material": 63
+          "material": 64
         }
       ],
       "name": "contemporary_deco_05"
@@ -4855,7 +4855,7 @@
             "TEXCOORD_1": 644
           },
           "indices": 640,
-          "material": 64
+          "material": 65
         }
       ],
       "name": "contemporary_terrace_table_shadowplane"
@@ -11626,6 +11626,28 @@
         1.0
       ],
       "name": "M_Curtain"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "roughnessFactor": 0.0
+      },
+      "occlusionTexture": {
+        "index": 22,
+        "texCoord": 1
+      },
+      "emissiveTexture": {
+        "index": 23,
+        "texCoord": 1
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "M_CurtainBar"
     },
     {
       "pbrMetallicRoughness": {
