@@ -2782,7 +2782,7 @@
       "mesh": 92,
       "translation": [
         8.223258,
-        1.08500111,
+        1.08500123,
         4.847064
       ],
       "rotation": [
@@ -2797,7 +2797,7 @@
       "mesh": 93,
       "translation": [
         8.223258,
-        0.737154961,
+        0.7371551,
         4.847064
       ],
       "rotation": [
@@ -2811,8 +2811,8 @@
     {
       "mesh": 94,
       "translation": [
-        8.462125,
-        1.125999,
+        8.462124,
+        1.12599909,
         4.847064
       ],
       "rotation": [
@@ -4585,7 +4585,7 @@
             "TEXCOORD_1": 649
           },
           "indices": 645,
-          "material": 66
+          "material": 67
         }
       ],
       "name": "panels_bathfurniture_batigreen_londres800_provence"
@@ -4600,7 +4600,7 @@
             "TEXCOORD_1": 654
           },
           "indices": 650,
-          "material": 67
+          "material": 68
         }
       ],
       "name": "bathfurniture_batigreen_shadowplane_baseboard"
@@ -13159,6 +13159,18 @@
     },
     {
       "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "emissive"
+    },
+    {
+      "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 3
         },
@@ -13178,7 +13190,7 @@
         1.0,
         1.0
       ],
-      "name": "Material #168"
+      "name": "Material #171"
     },
     {
       "pbrMetallicRoughness": {
@@ -13197,7 +13209,7 @@
         1.0,
         1.0
       ],
-      "name": "Material #169"
+      "name": "Material #172"
     }
   ],
   "textures": [
